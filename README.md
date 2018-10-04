@@ -1,6 +1,6 @@
-"# slack_skype_msteams_bot" 
+# slack_skype_msteams_bot
 
-"Instructions to run Slack bot" :
+## Instructions to run Slack bot :
 
 1. Run command 'npm install' on terminal of the application directory to install dependencies.
 2. In 'package.json' file , change the scripts to '"start": "node index.js"'.
@@ -12,7 +12,7 @@
 8. Copy 'Bot User OAuth Access Token' from the same tab and paste it in 'index.js' file ,search for 'token' and paste it inside quotes. Also fill the 'name' of the bot inside quotes. Run the application with command 'npm start' in application terminal.
 9. Check 'general' channel of slack with welcome messages from bot. Type @botname chucknorris to recieve jokes from bot. Also try @botname with 'yomama', 'random' and 'help'. 
 
-"Instructions to run Skype and Ms Teams bot":
+## Instructions to run Skype and Ms Teams bot :
 
 1. Run command 'npm install' on terminal of the application directory to install dependencies.
 2. In 'package.json' file , change the scripts to '"start": "node app.js"'.
